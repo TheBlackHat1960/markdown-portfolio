@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# Paul Storer
+## First Time GitHub User
+
+Spent 30 years in IT and now follow my true passion of photography and everything Leica
