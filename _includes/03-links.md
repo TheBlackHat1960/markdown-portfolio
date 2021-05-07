@@ -1,1 +1,1 @@
-[My Portfolio Site is at] (https://www.paulstorer.photography)
+[My Portfolio Site](https://www.paulstorer.photography)
